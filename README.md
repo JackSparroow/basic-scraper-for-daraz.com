@@ -1,4 +1,11 @@
+********** the code needs some edit as daraz.com hardcoded some products with <li> tag instead of <div>, along with some other errors.
+I'll soon update the one with the generated csv file **********
+
+
+
 # Web-Crawler-for-Daraz.com
+
+
 
 This is my very first web crawler. It's for the website :  www.daraz.com.bd
 
