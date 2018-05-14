@@ -1,4 +1,4 @@
-********** the code needs some edit as daraz.com hardcoded some products with <li> tag instead of <div>, along with some other errors.
+********** the code needs some edit as daraz.com hardcoded some products with different tags, along with some other errors.
 I'll soon update the one with the generated csv file **********
 
 
