@@ -2,7 +2,7 @@
 
 
 
-# Web-Scraper-for-Daraz.com
+# sraper-for-daraz.com
 
 
 
